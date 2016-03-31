@@ -1,6 +1,9 @@
 # jsdoc-ignore-future
 JSDoc plugin allowing one to exempt from parsing code that may be supported by a transpiler but not JSDoc's parser.
 
+# Install
+`npm install --save-dev jsdoc-ignore-future`
+
 # Usage
 Add `"node_modules/jsdoc-ignore-future"` to the plugins array in your jsdoc config.
 Put comments above & below code you wish for the JSDoc parser to ignore as in the following example:
