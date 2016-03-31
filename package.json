@@ -1,0 +1,22 @@
+{
+  "name": "jsdoc-ignore-future",
+  "version": "1.0.0",
+  "description": "JSDoc plugin allowing one to exempt from parsing code that may be supported by a transpiler but not JSDoc's parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnordhougen/jsdoc-ignore-future.git"
+  },
+  "keywords": [
+    "jsdoc"
+  ],
+  "author": "Chris Nordhougen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnordhougen/jsdoc-ignore-future/issues"
+  },
+  "homepage": "https://github.com/cnordhougen/jsdoc-ignore-future#readme"
+}
