@@ -1,6 +1,6 @@
 {
   "name": "jsdoc-ignore-future",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "JSDoc plugin allowing one to exempt from parsing code that may be supported by a transpiler but not JSDoc's parser.",
   "main": "index.js",
   "scripts": {
